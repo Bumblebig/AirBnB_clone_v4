@@ -1,0 +1,25 @@
+/* header 3-index CSS */
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px solid #cccccc;
+    background-color: white;
+}
+header img{
+    margin-left: 20px;
+}
+
+header div{
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    background-color: #cccccc;
+    margin-right: 25px;
+}
+.available {
+    background-color: #ff545f;
+}

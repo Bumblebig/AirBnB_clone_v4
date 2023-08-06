@@ -1,11 +1,11 @@
-header {
-    background: white;
+/* header 3-index CSS */
+
+header{
     height: 70px;
     width: 100%;
-    border-bottom: 1px solid #CCCCCC;
+    border-bottom: 1px solid #cccccc;
+    background-color: white;
 }
-header .logo {
-    background: url("../images/logo.png") no-repeat;
-    left: 20px;
-    height: 100%;
+header img{
+    margin-left: 20px;
 }
